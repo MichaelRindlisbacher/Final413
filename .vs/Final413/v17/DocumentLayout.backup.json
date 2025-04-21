@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\data\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\data\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\data\\engagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\data\\engagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\data\\entertainerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\data\\entertainerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|c:\\users\\mar38\\onedrive\\desktop\\final413\\backend\\final413.api\\final413.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EBA0071-4553-B0C6-A84F-9D2063AFD5C9}|backend\\Final413.API\\Final413.API.csproj|solutionrelative:backend\\final413.api\\final413.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engagement.cs",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\Engagement.cs",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\Data\\Engagement.cs",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\Engagement.cs",
+              "RelativeToolTip": "backend\\Final413.API\\Data\\Engagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:17:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\appsettings.json",
+              "RelativeToolTip": "backend\\Final413.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T16:14:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Program.cs",
+              "RelativeToolTip": "backend\\Final413.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:13:16.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntertainerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\EntertainerDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\Data\\EntertainerDbContext.cs",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\EntertainerDbContext.cs",
+              "RelativeToolTip": "backend\\Final413.API\\Data\\EntertainerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:12:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entertainer.cs",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\Entertainer.cs",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\Data\\Entertainer.cs",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\Entertainer.cs*",
+              "RelativeToolTip": "backend\\Final413.API\\Data\\Entertainer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:10:06.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Final413.API.csproj",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Final413.API.csproj",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\Final413.API.csproj",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Final413.API.csproj",
+              "RelativeToolTip": "backend\\Final413.API\\Final413.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T16:09:33.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntertainerController.cs",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Controllers\\EntertainerController.cs",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\Controllers\\EntertainerController.cs",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Controllers\\EntertainerController.cs",
+              "RelativeToolTip": "backend\\Final413.API\\Controllers\\EntertainerController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:45:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Final413.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Final413.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T17:44:43.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

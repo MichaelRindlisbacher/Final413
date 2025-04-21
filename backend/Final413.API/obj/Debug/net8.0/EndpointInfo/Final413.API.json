@@ -1,0 +1,188 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Final413.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Entertainer": {
+      "get": {
+        "tags": [
+          "Entertainer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Entertainer"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Entertainer"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Entertainer"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Entertainer"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Entertainer/{id}": {
+      "get": {
+        "tags": [
+          "Entertainer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Entertainer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Entertainer"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Entertainer"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Entertainer"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Entertainer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Entertainer": {
+        "type": "object",
+        "properties": {
+          "entertainerID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "entStageName": {
+            "type": "string",
+            "nullable": true
+          },
+          "entSSN": {
+            "type": "string",
+            "nullable": true
+          },
+          "entStreetAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "entCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "entState": {
+            "type": "string",
+            "nullable": true
+          },
+          "entZipCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "entPhoneNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "entWebPage": {
+            "type": "string",
+            "nullable": true
+          },
+          "entEmailAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateEntered": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

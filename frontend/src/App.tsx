@@ -1,35 +1,53 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import Home from './pages/Home';
+import AdminEntertainersPage from './pages/AdminEntertainersPage';
+import NewEntertainerForm from './components/NewEntertainerForm';
+import EditEntertainerForm from './components/EditEntertainerForm';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-function App() {
-  const [count, setCount] = useState(0)
+const App = () => {
+    return (
+        <Router>
+            {/* Fixed navbar */}
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-3 fixed-top">
+                <div className="container">
+                    <Link className="navbar-brand" to="/">
+                        Entertainment Agency
+                    </Link>
+                    <button 
+                        className="navbar-toggler" 
+                        type="button" 
+                        data-bs-toggle="collapse" 
+                        data-bs-target="#navbarNav"
+                    >
+                        <span className="navbar-toggler-icon"></span>
+                    </button>
+                    <div className="collapse navbar-collapse" id="navbarNav">
+                        <ul className="navbar-nav ms-auto">
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/">Home</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/entertainers">Entertainers</Link>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+            {/* Main content with proper padding for fixed navbar */}
+            <div className="wrapper" style={{ paddingTop: '70px' }}>
+                <div className="container">
+                    <Routes>
+                        <Route path="/" element={<Home />} />
+                        <Route path="/entertainers" element={<AdminEntertainersPage />} />
+                        <Route path="/entertainer/new" element={<NewEntertainerForm />} />
+                        <Route path="/entertainer/:id" element={<EditEntertainerForm />} />
+                    </Routes>
+                </div>
+            </div>
+        </Router>
+    );
+};
 
-export default App
+export default App;

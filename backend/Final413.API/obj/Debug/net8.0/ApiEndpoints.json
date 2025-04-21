@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Final413.API.Controllers.EntertainerController",
+    "Method": "GetEntertainersSummary",
+    "RelativePath": "api/Entertainer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Final413.API.Controllers.EntertainerController",
+    "Method": "AddEntertainer",
+    "RelativePath": "api/Entertainer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEntertainer",
+        "Type": "Entertainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Final413.API.Controllers.EntertainerController",
+    "Method": "GetEntertainer",
+    "RelativePath": "api/Entertainer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Final413.API.Controllers.EntertainerController",
+    "Method": "UpdateEntertainer",
+    "RelativePath": "api/Entertainer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updated",
+        "Type": "Entertainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Final413.API.Controllers.EntertainerController",
+    "Method": "DeleteEntertainer",
+    "RelativePath": "api/Entertainer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

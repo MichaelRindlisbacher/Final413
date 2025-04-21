@@ -8,7 +8,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ItemDbContext>(options =>
+builder.Services.AddDbContext<EntertainerDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("ItemsConnection")));
 
 builder.Services.AddCors(options =>
