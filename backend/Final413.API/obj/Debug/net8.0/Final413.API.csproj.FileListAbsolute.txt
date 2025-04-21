@@ -67,3 +67,4 @@ C:\Users\mar38\OneDrive\Desktop\Final413\backend\Final413.API\obj\Debug\net8.0\r
 C:\Users\mar38\OneDrive\Desktop\Final413\backend\Final413.API\obj\Debug\net8.0\Final413.API.pdb
 C:\Users\mar38\OneDrive\Desktop\Final413\backend\Final413.API\obj\Debug\net8.0\Final413.API.genruntimeconfig.cache
 C:\Users\mar38\OneDrive\Desktop\Final413\backend\Final413.API\obj\Debug\net8.0\ref\Final413.API.dll
+C:\Users\mar38\OneDrive\Desktop\Final413\backend\Final413.API\bin\Debug\net8.0\EntertainmentAgencyExample.sqlite
