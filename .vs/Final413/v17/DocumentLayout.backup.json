@@ -54,8 +54,7 @@
               "RelativeToolTip": "backend\\Final413.API\\Data\\Engagement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:17:21.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T17:17:21.968Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "backend\\Final413.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T16:14:58.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:14:58.492Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "backend\\Final413.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:13:16.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:13:16.974Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "backend\\Final413.API\\Data\\EntertainerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:12:34.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:12:34.028Z"
             },
             {
               "$type": "Document",
@@ -102,9 +98,9 @@
               "Title": "Entertainer.cs",
               "DocumentMoniker": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\Entertainer.cs",
               "RelativeDocumentMoniker": "backend\\Final413.API\\Data\\Entertainer.cs",
-              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\Entertainer.cs*",
-              "RelativeToolTip": "backend\\Final413.API\\Data\\Entertainer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mar38\\OneDrive\\Desktop\\Final413\\backend\\Final413.API\\Data\\Entertainer.cs",
+              "RelativeToolTip": "backend\\Final413.API\\Data\\Entertainer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T16:10:06.971Z",
               "EditorCaption": ""
@@ -131,12 +127,7 @@
               "RelativeToolTip": "backend\\Final413.API\\Controllers\\EntertainerController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAiwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T15:45:34.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-04-21T15:45:34.588Z"
             },
             {
               "$type": "Document",
@@ -148,8 +139,11 @@
               "RelativeToolTip": "backend\\Final413.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T17:44:43.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T17:44:43.879Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
