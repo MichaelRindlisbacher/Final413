@@ -1,6 +1,6 @@
 import { Entertainer, EntertainerSummary } from '../types/Entertainer';
 
-const API_BASE = 'https://localhost:7222/api/Entertainer';
+const API_BASE = 'https://final413-backend-michael-fnc7aycthkcxbsfe.eastus-01.azurewebsites.net/api/Entertainer';
 
 // GET all with summary
 export const fetchEntertainers = async (): Promise<EntertainerSummary[]> => {
